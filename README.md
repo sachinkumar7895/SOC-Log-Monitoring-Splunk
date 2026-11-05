@@ -52,7 +52,7 @@ index=main sourcetype=Ubuntu_Auth_Logs "authentication failure"
 
 ## Project Report
 
-"View / Download SOC Monitoring Project Report" (SOC-Log-Monitoring-Splunk-Report.pdf)
+[View / Download SOC Monitoring Project Report](SOC-Log-Monitoring-Splunk-Report.pdf)
 
 ## Author
 
